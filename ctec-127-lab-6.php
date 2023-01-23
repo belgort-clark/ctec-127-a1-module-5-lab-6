@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>Lab No. 6 - Winter 2022</title>
+    <title>Lab No. 6 - Winter 2023</title>
 </head>
 
 <body>
